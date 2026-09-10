@@ -1,5 +1,5 @@
 # cv-lab4
 
 
-<img width="1189" height="896" alt="image" src="https://github.com/user-attachments/assets/9d98c495-832c-4aee-a5b7-3626ce9b24eb" />
+<img width="791" height="989" alt="image" src="https://github.com/user-attachments/assets/099c4a75-93b4-4aa3-bc73-3a69e076e55a" />
 
